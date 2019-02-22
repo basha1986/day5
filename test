@@ -1,4 +1,10 @@
 Hello i am from master
 Hello I am added from feature1
 line 3
+<<<<<<< HEAD
 line 7
+=======
+line 4
+line 5
+line 6
+>>>>>>> 664a253fb03fb4b252ff2a6323f58cbe7b989613
